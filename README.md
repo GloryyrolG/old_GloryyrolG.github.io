@@ -1,37 +1,27 @@
 ## Welcome to Rongyu Chen's Pages
 
-You can use the [editor on GitHub](https://github.com/GloryyrolG/GloryyrolG.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Rongyu will be a Ph.D. in CVML Lab, advised by Angela Yao, in August 2020.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Contact: glorychen14@gmail.com, rongyuchen@comp.nus.edu.sg
 
-### Markdown
+### Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Deep Learning, Computer Vision, Interpretability, Robustness, Transfer Learning, etc.
 
-```markdown
-Syntax highlighted code block
+### Education
 
-# Header 1
-## Header 2
-### Header 3
+B.E., Sichuan University (1^{st} Honour), Sichuan, China, 2016-2020
 
-- Bulleted
-- List
+Ph.D., National University of Singapore, Singapore, 2020
 
-1. Numbered
-2. List
+### Honours
 
-**Bold** and _Italic_ and `Code` text
+The ACM-ICPC Asian-East Continent Final Silver Medal, 2018
 
-[Link](url) and ![Image](src)
-```
+National Scholarship, 2017-2019
+
+### Acknowledge
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GloryyrolG/GloryyrolG.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
