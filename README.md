@@ -1,3 +1,7 @@
+---
+google-site-verification: 6CnvZCwIyEwnKmmwDcdLaMCi2SwTj2Sn0eQSGdMbab0
+---
+
 <head><meta name="google-site-verification" content="6CnvZCwIyEwnKmmwDcdLaMCi2SwTj2Sn0eQSGdMbab0" /></head>
 
 ## Welcome to Rongyu Chen's Homepage
