@@ -10,6 +10,7 @@ He is open to any discussions and collaboration:)
 
 Contact:
 <a href="mailto:rchen@u.nus.ed">rchen@u.nus.edu</a>, glorychen14@gmail.com
+
 AS6 #04-11, 11 Computing Drive, Singapore, 117416
 
 ### Education
@@ -25,8 +26,11 @@ Ph.D., National University of Singapore, Singapore
 ### Publications
 
 Multiple Hypotheses Meet Entropy for Pose and Shape Recovery
-Rongyu Chen*, Linlin Yang*, Angela Yao#
-ICCV 2023
+
+Rongyu Chen\*, Linlin Yang\*, Angela Yao#.
+
+ICCV 2023.
+
 [paper][code][project]
 
 ### Awards
