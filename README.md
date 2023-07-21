@@ -10,11 +10,11 @@ He is open to any discussions and collaboration:)
 
 **Contact:**
 
-- Emails:<a href="mailto:rchen@u.nus.edu">rchen@u.nus.edu</a>, glorychen14@gmail.com<br>
+- Emails:<a href="mailto:rchen@u.nus.edu">rchen@u.nus.edu</a>, glorychen14@gmail.com
 
 - LinkedIn: [Rongyu Chen](https://www.linkedin.com/in/rongyu-chen-6a3482189?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlWCtyPtOQlao6Rk4VFWpeQ%3D%3Dhttps://www.linkedin.com/in/rongyu-chen-6a3482189/)
 
-- Address: AS6 #04-11, 11 Computing Drive, Singapore, 117416</p>
+- Address: AS6 #04-11, 11 Computing Drive, Singapore, 117416
 
 ### Education
 
