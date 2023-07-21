@@ -27,9 +27,9 @@ Ph.D., National University of Singapore, Singapore
 
 Multiple Hypotheses Meet Entropy for Pose and Shape Recovery
 
-Rongyu Chen\*, Linlin Yang\*, Angela Yao#.
+Rongyu Chen\*, Linlin Yang\*, Angela Yao#
 
-ICCV 2023.
+ICCV 2023
 
 [paper][code][project]
 
