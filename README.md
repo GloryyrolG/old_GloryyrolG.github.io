@@ -39,11 +39,15 @@ He is open to any discussions and collaboration:)
 
 - National Scholarship, 2017-2019
 
+- The National College Student Mathematics Competition (CMC) in Sichuan Province First Prize
+
+- The National Olympiad in Informatics in Zhejiang Province (NOIP) First Prize, 2011
+
 ### Activities
 
 - Attended CVPR 2022 (New Orleans, US, Jun), CVPR 2023 (Van, CA, Jun)
 
-- Reviewed CVPR 2022, NeurIPS 2023
+- Reviewed CVPR 2023, NeurIPS 2023
 
 #### Acknowledgements
 
