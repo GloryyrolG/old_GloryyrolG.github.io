@@ -8,36 +8,31 @@ Rongyu Chen is a Ph.D. candidate of Computer Science at the [Computer Vision &am
 
 He is open to any discussions and collaboration:)
 
-Contact:
-<a href="mailto:rchen@u.nus.ed">rchen@u.nus.edu</a>, glorychen14@gmail.com
-
-AS6 #04-11, 11 Computing Drive, Singapore, 117416
+<p>Contact: <a href="mailto:rchen@u.nus.edu">rchen@u.nus.edu</a>, glorychen14@gmail.com<br>
+AS6 #04-11, 11 Computing Drive, Singapore, 117416</p>
 
 ### Education
 
 <!-- B.E., Sichuan University (1^{st} Honour), Sichuan, China, 2016-2020 -->
 
-Ph.D., National University of Singapore, Singapore
+- Ph.D., National University of Singapore, Singapore
 
 ### News
 
-**Jul 2023** One paper was accepted by ICCV 2023, Paris, FR
+- Jul 2023: One paper was accepted by ICCV 2023, Paris, FR
 
 ### Publications
 
-Multiple Hypotheses Meet Entropy for Pose and Shape Recovery
-
-Rongyu Chen\*, Linlin Yang\*, Angela Yao#
-
-ICCV 2023
-
-[paper][code][project]
+- <p>Multiple Hypotheses Meet Entropy for Pose and Shape Recovery<br>
+  Rongyu Chen\*, Linlin Yang\*, Angela Yao#<br>
+  ICCV 2023<br>
+  [paper][code][project]</p>
 
 ### Awards
 
-The ACM-ICPC Asian-East Continent Final Silver Medal, 2018
+- The ACM-ICPC Asian-East Continent Final Silver Medal, 2018
 
-National Scholarship, 2017-2019
+- National Scholarship, 2017-2019
 
 #### Acknowledgements
 
