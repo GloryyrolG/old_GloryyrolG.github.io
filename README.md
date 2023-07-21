@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="google033b790abe9c112f">
+<meta name="google-site-verification" content="6CnvZCwIyEwnKmmwDcdLaMCi2SwTj2Sn0eQSGdMbab0" />
 
 ## Welcome to Rongyu Chen's Homepage
 
