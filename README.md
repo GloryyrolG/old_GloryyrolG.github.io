@@ -10,7 +10,7 @@ He is open to any discussions and collaboration:)
 
 **Contact:**
 
-- Emails:<a href="mailto:rchen@u.nus.edu">rchen@u.nus.edu</a>, glorychen14@gmail.com
+- Emails: <a href="mailto:rchen@u.nus.edu">rchen@u.nus.edu</a>, glorychen14@gmail.com
 
 - LinkedIn: [Rongyu Chen](https://www.linkedin.com/in/rongyu-chen-6a3482189?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlWCtyPtOQlao6Rk4VFWpeQ%3D%3Dhttps://www.linkedin.com/in/rongyu-chen-6a3482189/)
 
@@ -24,7 +24,7 @@ He is open to any discussions and collaboration:)
 
 ### News
 
-- Jul 2023: One paper was accepted by ICCV 2023, Paris, FR
+- Jul 2023: One paper was accepted by ICCV 2023, Paris, FR, Oct
 
 ### Publications
 
@@ -41,7 +41,7 @@ He is open to any discussions and collaboration:)
 
 ### Activities
 
-- Attended CVPR 2022 (New Orleans, US), CVPR 2023 (Van, CA)
+- Attended CVPR 2022 (New Orleans, US, Jun), CVPR 2023 (Van, CA, Jun)
 
 - Reviewed CVPR 2022, NeurIPS 2023
 
